@@ -1,0 +1,7 @@
+E:\Medusind\ASP\MyProject1\MyProject1\bin\Debug\MyProject1.exe.config
+E:\Medusind\ASP\MyProject1\MyProject1\bin\Debug\MyProject1.exe
+E:\Medusind\ASP\MyProject1\MyProject1\bin\Debug\MyProject1.pdb
+E:\Medusind\ASP\MyProject1\MyProject1\obj\Debug\MyProject1.csproj.AssemblyReference.cache
+E:\Medusind\ASP\MyProject1\MyProject1\obj\Debug\MyProject1.csproj.CoreCompileInputs.cache
+E:\Medusind\ASP\MyProject1\MyProject1\obj\Debug\MyProject1.exe
+E:\Medusind\ASP\MyProject1\MyProject1\obj\Debug\MyProject1.pdb
